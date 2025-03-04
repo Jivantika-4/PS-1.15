@@ -1,9 +1,4 @@
 Good morning
-<<<<<<< HEAD
 Hi
 4 March 2025
 hello
-=======
-
-message form sub2
->>>>>>> sub2
